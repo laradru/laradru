@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 <!--
-**laradru/laradru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+In a nutshell: 
+I have a background in Dentistry and Scientific Methodology. 
+My uncontrollable enthusiasm for numbers during my PhD led me to start learning Statistics at UNICAMP :D
+In my spare time, I draw and paint with watercolor pencils, which I find therapeutic.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
