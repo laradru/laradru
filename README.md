@@ -9,3 +9,4 @@ In a nutshell:
 - 🎭 Carnival is the best time of the year!
 
 
+"We need less research, better research, and research done for the right reasons". D.G.Altman (1994)
